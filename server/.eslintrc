@@ -1,0 +1,10 @@
+{
+    "extends": "@imaginary-cloud/react",
+    "rules": {
+        "react/prop-types": 0,
+        "consistent-return":"off",
+        "no-console": "off",
+        "func-names": "off",
+        "no-shadow":"off"
+    }
+  }
